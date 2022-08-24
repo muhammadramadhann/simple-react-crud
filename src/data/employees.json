@@ -1,0 +1,44 @@
+{
+  "employees": [
+    {
+      "name": "John Doe",
+      "age": 28,
+      "role": "Project Manager",
+      "division": "Information Technology",
+      "address": "Jakarta",
+      "id": 1
+    },
+    {
+      "name": "Andi Budiman",
+      "age": "24",
+      "role": "Content Writer",
+      "division": "Marketing",
+      "address": "Bogor",
+      "id": 2
+    },
+    {
+      "name": "Siti Aminah",
+      "age": 26,
+      "role": "Acount Executive",
+      "division": "Finance",
+      "address": "Bekasi",
+      "id": 3
+    },
+    {
+      "name": "Mikel Arteta",
+      "age": 30,
+      "role": "Talent Acquisition",
+      "division": "Human Capital",
+      "address": "Tangerang",
+      "id": 4
+    },
+    {
+      "name": "Ramadhan",
+      "age": "22",
+      "role": "Frontend Developer",
+      "division": "Information Technology",
+      "address": "Bekasi",
+      "id": 5
+    }
+  ]
+}
